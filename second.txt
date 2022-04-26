@@ -1,0 +1,3 @@
+This is my second repository created from github directly and i clone it
+to my local machine using ssh key.
+I will push this as my second file on the server
